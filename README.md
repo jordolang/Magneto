@@ -1,0 +1,2 @@
+# Magneto
+Online Storefront
